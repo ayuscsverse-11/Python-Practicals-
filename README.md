@@ -177,6 +177,6 @@ Minimum: 1
 ## 14. Exception Handling (`14_exception_handling.py`)
 
 ```
-Enter your name: Manjot Kaur
-Valid name: Manjot Kaur
+Enter your name: Ayush 
+Valid name: Ayush
 ```
