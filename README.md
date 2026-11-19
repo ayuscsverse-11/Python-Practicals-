@@ -121,16 +121,16 @@ Created File1 (even lines) and File2 (odd lines).
 
 ```
 Employee number: 101
-Name: Manjot
-Department: CSE
+Name: Manjit 
+Department: IT
 Basic: 30000
 DA: 10000
 HRA: 5000
 
 Employee details
 Employee No.: 101
-Name: Manjot
-Department: CSE
+Name: Manjit
+Department: IT
 Basic: 30000.00
 DA: 10000.00
 HRA: 5000.00
